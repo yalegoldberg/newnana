@@ -454,3 +454,9 @@ footer {
   font-size: 1.25rem;
   margin-top: 1rem;
 }
+
+.image-600 {
+  width: 600px;
+  height: 600px;
+  object-fit: cover; /* Ensures the image fits nicely within the dimensions */
+}
