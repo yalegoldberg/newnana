@@ -456,7 +456,7 @@ footer {
 }
 
 .image-600 {
-  width: 600px;
-  height: 600px;
+  width: 400px;
+  height: 400px;
   object-fit: cover; /* Ensures the image fits nicely within the dimensions */
 }
